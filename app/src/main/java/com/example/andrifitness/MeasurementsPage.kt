@@ -48,7 +48,7 @@ fun MeasurementsLayout(navController: NavHostController) {
         constraints, modifier = Modifier
             .fillMaxSize()
             .background(Color.DarkGray)
-            .padding(30.dp)
+            .padding(10.dp)
     ) {
         Column(
             modifier = Modifier
